@@ -1,0 +1,25 @@
+{
+  "recipient_email": "thomyytripodi54@gmail.com",
+  "select_top_n": 10,
+  "universe": [
+    { "ticker": "NASDAQ:INTC", "note": null },
+    { "ticker": "NASDAQ:TSLA", "note": null },
+    { "ticker": "NASDAQ:NFLX", "note": null },
+    { "ticker": "NASDAQ:AMZN", "note": null },
+    { "ticker": "NYSE:DIS", "note": null },
+    { "ticker": "NASDAQ:MELI", "note": null },
+    { "ticker": "NASDAQ:AAL", "note": null },
+    { "ticker": "NASDAQ:AAPL", "note": null },
+    { "ticker": "NYSE:GLOB", "note": null },
+    { "ticker": "NYSE:NIO", "note": null },
+    { "ticker": "BA:IRSA", "note": "Sin cobertura directa en Massive; usar ADR NYSE:IRS como proxy" },
+    { "ticker": "NYSE:TM", "note": null },
+    { "ticker": "NASDAQ:PEP", "note": null },
+    { "ticker": "NYSE:PFE", "note": null },
+    { "ticker": "NYSE:JNJ", "note": null },
+    { "ticker": "CURRENCY:BTCUSD", "note": null },
+    { "ticker": "CURRENCY:SOLUSD", "note": null },
+    { "ticker": "CURRENCY:ETHUSD", "note": null },
+    { "ticker": "NASDAQ:SPCX", "note": "Space Exploration Technologies Corp. Class A Common Stock" }
+  ]
+}
